@@ -12,7 +12,7 @@ module alarm_test;
         begin
             // first case - should be alarm = 0
             assign PANIC = 0;
-            assign EABLE = 1;
+            assign ENABLE = 1;
             assign EXITING = 1;
             assign WINDOW = 1;
             assign DOOR = 0;
