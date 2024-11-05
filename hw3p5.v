@@ -1,4 +1,4 @@
-`timescale 1ps/10ps
+`timescale 1ps/1ps
 
 module hw3p5(
     input [2:0] A,

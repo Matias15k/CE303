@@ -1,4 +1,4 @@
-`timescale 1ps/10ps
+`timescale 1ps/1ps
 
 module hw3p5_testbench;
     reg [2:0] A;

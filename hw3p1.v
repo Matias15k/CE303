@@ -1,4 +1,4 @@
-`timescale 1ps/10ps
+`timescale 1ps/1ps
 
 module hw3p1(A0,A1,EN,Y0,Y1,Y2,Y3);
     input A0,A1,EN;

@@ -1,4 +1,4 @@
-`timescale 1ps/10ps
+`timescale 1ps/1ps
 
 module hw3pq_testbench;
     reg A0,A1,EN;

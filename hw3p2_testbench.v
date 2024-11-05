@@ -1,4 +1,4 @@
-`timescale 1ps/10ps
+`timescale 1ps/1ps
 
 module hw3p2_testbench;
     reg C0,A0,B0,A1,B1,A2,B2,A3,B3;
